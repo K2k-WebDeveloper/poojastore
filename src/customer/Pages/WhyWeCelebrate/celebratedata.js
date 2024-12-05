@@ -1,0 +1,25 @@
+import Durgapuja from "./Images/durgapuja.jpeg"
+export const celebratedata = [
+  { id:"durgapuja",
+    title:"",
+    discription: "",
+    timings: "",
+    items: "",
+    cloths:"",
+    pujaItem:"Flowers ,Dantakashto (1) ,Finger rings made of kusha (40 or 22) ,One nose ring ,Iron ,Conch shells (2) ,Box of vermillion ,Garland ,Belpatra garland ,One chandmala ,One ghoti.",
+    kalash:"",
+    otherItems:"",
+    img: Durgapuja,
+  },
+  {
+    title:"Durga Puja",
+    discription: "Durga Puja is a significant Hindu festival celebrated in India and other parts of the world, particularly in the eastern states of West Bengal, Assam, Bihar, Jharkhand, Odisha, and Tripura. The festival commemorates the victory of Goddess Durga over the buffalo-demon Mahishasura.Legend and Significance According to mythology, Mahishasura, a powerful demon, received blessings from Lord Brahma, making him invincible. He began to terrorize the world, killing people and gods alike. The gods combined their powers to create Goddess Durga, a maiden with ten arms, each wielding a powerful weapon. Riding a lion, she killed Mahishasur, restoring peace and order. Celebrations Durga Puja is a 10-day celebration, starting with Mahalaya, the day of worship, and culminating on Bijoya Dashami, the day of immersion.",
+    timings: " Durga Puja typically takes place in the Hindu month of Ashwin (September-October), lasting for 10 days. Morning: 6:00AM / Evening:6:00PM.",
+    items: "Note: The specific items required may vary depending on the region, community, or personal preferences.",
+    cloths:"Cloth Offerings:Sari for Durga ,Clothes for Lakshmi, Saraswati, Chandi, Kartik, Ganesh, Shiva, Vishnu, nine planets, lion, peacock, mouse, demon, ox, buffalo, snake, Jaya, Bijoya, and Ram ,Cloth for the Pundit ,Cloth for arati ,Dhoti for Kartik, Ganesh, Shiva, and Vishnu",
+    pujaItem:"Flowers ,Dantakashto (1) ,Finger rings made of kusha (40 or 22) ,One nose ring ,Iron ,Conch shells (2) ,Box of vermillion ,Garland ,Belpatra garland ,One chandmala ,One ghoti.",
+    kalash:"",
+    otherItems:"",
+    img: Durgapuja,
+  },
+];
